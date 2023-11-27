@@ -28,17 +28,20 @@ ChatWithPDFUsingOpenAIGPT is an innovative tool that harnesses the power of Open
 3. **Set up Vercel's AI SDK and PineconeDB Credentials:**
    - Follow the provided documentation to configure Vercel's AI SDK and PineconeDB for your specific use case.
 
-4. **Embed PDF and store on PineconeDB:**
+4. **Set up Open AI and PineconeDB API keys and information:**
+   - Open .env file and insert your OpenAI API key, your PineconeDB API key and rest of the information required.
+
+5. **Embed PDF and store on PineconeDB:**
    ```
    npm run prepare:data
    ```
 
-4. **Run the Application:**
+6. **Run the Application:**
    ```
    npm run dev
    ```
 
-5. **Open Your Browser:**
+7. **Open Your Browser:**
    Visit `http://localhost:3000` to experience ChatWithPDFUsingOpenAIGPT locally.
 
 
