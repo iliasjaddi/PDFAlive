@@ -16,7 +16,7 @@ ChatWithPDFUsingOpenAIGPT is an innovative tool that harnesses the power of Open
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/chatwithpdfusingOpenAIGPT.git
+   git clone https://github.com/yourkidelias/chatwithpdfusingOpenAIGPT.git
    ```
 
 2. **Install Dependencies:**
