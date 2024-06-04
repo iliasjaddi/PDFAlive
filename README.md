@@ -1,6 +1,8 @@
-# ChatWithPDFUsingOpenAIGPT
+# PDFAlive
 
-ChatWithPDFUsingOpenAIGPT is an innovative tool that harnesses the power of OpenAI's GPT (Generative Pre-trained Transformer) to create an AI-powered chat experience within your PDF documents. Built with Next.js 13, Vercel's AI SDK, Langchain, and PineconeDB, this tool offers a seamless and dynamic interaction platform for your PDF content.
+PDFAlive is an innovative tool that leverages the power of OpenAI's GPT (Generative Pre-trained Transformer) to create an AI-powered chat experience directly within your PDF documents. Built with Next.js 13, Vercel's AI SDK, Langchain, and PineconeDB, PDFAlive offers a seamless and dynamic platform for interacting with your PDF content.
+
+I developed PDFAlive to aid in my studies, particularly in history classes. By using the tool, I could prompt the AI to speak as the economist or author I was studying, making my learning experience much more interactive and engaging.
 
 ## Key Features:
 
