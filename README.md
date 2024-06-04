@@ -42,7 +42,7 @@ ChatWithPDFUsingOpenAIGPT is an innovative tool that harnesses the power of Open
    ```
 
 7. **Open Your Browser:**
-   Visit `http://localhost:3000` to experience ChatWithPDFUsingOpenAIGPT locally.
+   Visit `http://localhost:3000` to experience PDFAlive locally.
 
 
 ## License:
