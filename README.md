@@ -21,12 +21,12 @@ I developed PDFAlive to aid in my studies, particularly in history classes. By u
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/yourkidelias/chatwithpdfusingOpenAIGPT.git
+   git clone https://github.com/iliasjaddi/PDFAlive.git
    ```
 
 2. **Install Dependencies:**
    ```
-   cd chatwithpdfusingOpenAIGPT
+   cd PDFAlive
    npm install
    ```
 
